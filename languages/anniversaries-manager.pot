@@ -1,0 +1,272 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Anniversaries Manager 1.8.15\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-25 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: ChatGPT POT Builder\n"
+"X-Domain: anniversaries-manager\n"
+
+msgid " %1$s — %2$s"
+msgstr ""
+
+msgid "%d yrs"
+msgstr ""
+
+msgid "(status optional; default pending). Date must be YYYY-MM-DD."
+msgstr ""
+
+msgid "/* Your CSS that affects the list and calendar */"
+msgstr ""
+
+msgid "Add New Anniversary"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All Anniversaries"
+msgstr ""
+
+msgid "Anniversary Details"
+msgstr ""
+
+msgid "Approve"
+msgstr ""
+
+msgid "Approve: %s"
+msgstr ""
+
+msgid "Auto-update the title with this label"
+msgstr ""
+
+msgid "Bad nonce."
+msgstr ""
+
+msgid "CSV File"
+msgstr ""
+
+msgid "CSV Import/Export"
+msgstr ""
+
+msgid "CSV headers required:"
+msgstr ""
+
+msgid "Comma-separated list of emails to notify when a new entry is created. Falls back to the site admin email if left blank."
+msgstr ""
+
+msgid "Computed"
+msgstr ""
+
+msgid "Custom CSS"
+msgstr ""
+
+msgid "Custom CSS is printed on the front-end (in the head)."
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date: %s"
+msgstr ""
+
+msgid "Default CSS"
+msgstr ""
+
+msgid "Default status"
+msgstr ""
+
+msgid "Download CSV"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Edit Anniversary"
+msgstr ""
+
+msgid "Edit: %s"
+msgstr ""
+
+msgid "Empty file."
+msgstr ""
+
+msgid "Enable plugin default styles"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import CSV"
+msgstr ""
+
+msgid "Import complete: %1$d created, %2$d skipped, %3$d errors."
+msgstr ""
+
+msgid "Insufficient permissions."
+msgstr ""
+
+msgid "Label (display text)"
+msgstr ""
+
+msgid "Missing required column: %s"
+msgstr ""
+
+msgid "Mon"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New Anniversary"
+msgstr ""
+
+msgid "New Anniversary submitted: %s"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Next Month"
+msgstr ""
+
+msgid "Next Occurrence"
+msgstr ""
+
+msgid "Next Year"
+msgstr ""
+
+msgid "Next occurrence:"
+msgstr ""
+
+msgid "No entries found"
+msgstr ""
+
+msgid "No entries found in Trash"
+msgstr ""
+
+msgid "No entries found."
+msgstr ""
+
+msgid "No file uploaded."
+msgstr ""
+
+msgid "Notes (optional)"
+msgstr ""
+
+msgid "Notes:"
+msgstr ""
+
+msgid "Notification emails"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Please fill out all required fields correctly."
+msgstr ""
+
+msgid "Prev Month"
+msgstr ""
+
+msgid "Prev Year"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "Sat"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Save Styles"
+msgstr ""
+
+msgid "Search Anniversaries"
+msgstr ""
+
+msgid "Security check failed."
+msgstr ""
+
+msgid "Set a date to see next occurrence and years."
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Shown in the title after the name (e.g., “Jane Smith — Birthday”)."
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Status: %s"
+msgstr ""
+
+msgid "Styles"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Thank you! Your entry was submitted and is awaiting approval."
+msgstr ""
+
+msgid "There was an error. Please try again later."
+msgstr ""
+
+msgid "Thu"
+msgstr ""
+
+msgid "Title: %s"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+msgid "Unable to read uploaded file."
+msgstr ""
+
+msgid "Uncheck to disable the plugin’s default front-end styles."
+msgstr ""
+
+msgid "Used when a row omits status or provides an invalid value."
+msgstr ""
+
+msgid "View Anniversary"
+msgstr ""
+
+msgid "Wed"
+msgstr ""
+
+msgid "Years"
+msgstr ""
+
+msgid "Years:"
+msgstr ""
+
+msgid "e.g. Anniversary, Birthday, Hire Date"
+msgstr ""
